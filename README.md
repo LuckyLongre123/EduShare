@@ -254,7 +254,18 @@ mysql -u username -p database_name < schema.sql
 chmod 755 uploads/
 
 # 5. Access application
-http://localhost/eduShare/
+---
+
+## 🌐 Live Demo
+
+<div align="center">
+  <a href="http://dushere-luckylongre.free.nf/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Project-Click_Here-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
+
+---
+
 ```
 
 ---
