@@ -229,6 +229,15 @@ erDiagram
 
 ---
 
+## 🌐 Live Demo
+
+<div align="center">
+  <a href="http://dushere-luckylongre.free.nf/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Project-Click_Here-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
+
+
 ## 🚀 Installation & Setup
 
 ### Prerequisites
@@ -252,19 +261,6 @@ mysql -u username -p database_name < schema.sql
 
 # 4. Set permissions
 chmod 755 uploads/
-
-# 5. Access application
----
-
-## 🌐 Live Demo
-
-<div align="center">
-  <a href="http://dushere-luckylongre.free.nf/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_Live_Project-Click_Here-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
-  </a>
-</div>
-
----
 
 ```
 
