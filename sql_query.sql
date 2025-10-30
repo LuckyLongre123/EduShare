@@ -22,8 +22,9 @@ SET time_zone = "+00:00";
 --
 
 -- --------------------------------------------------------
+CREATE DATABASE IF NOT EXISTS if0_39937351_project_db;
+USE if0_39937351_project_db;
 
---
 -- Table structure for table `colleges`
 --
 
